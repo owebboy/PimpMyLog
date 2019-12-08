@@ -24,7 +24,7 @@ set('writable_dirs', []);
 
 host('webtype.io')
     ->user('webtypei')
-    ->set('deploy_path', '~/www/websites/logs');    
+    ->set('deploy_path', '~/public_html/websites/logs');    
     
 
 // Tasks
